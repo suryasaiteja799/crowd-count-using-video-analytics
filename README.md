@@ -1,4 +1,4 @@
-# Crowd Count Using Video Analytics (Demo)
+# Crowd Count Using Video Analytics
 
 This is a simple demo app that lets users register/login, upload videos, and runs a basic OpenCV background-subtraction heuristic to estimate moving-object counts (a proxy for counting birds/crows or people). An admin user can view all users and records.
 
